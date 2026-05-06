@@ -53,6 +53,13 @@ python -m streamlit run app.py
 3. 在输入框输入问题
 4. 查看 AI 回答及来源页码
 
+## 📸 项目截图
+
+![上传文档](<Screen shots/Smart Q&A1.png>)
+![上传文档](<Screen shots/Smart Q&A2.png>)
+![上传文档](<Screen shots/Smart Q&A3.png>)
+![上传文档](<Screen shots/Smart Q&A4.png>)
+
 ## 作者
 
 李佳 · [github.com/pingguoli182-sys](https://github.com/pingguoli182-sys)
